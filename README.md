@@ -1,15 +1,10 @@
 # odin-recipes
 TOP learning course 1st project
 
-Here i should show my new knowledge of GIT and HTML
+In this project Terms of Reference was create a simple website which include main page with Header h1 "Odin Recipes" and navigation with 3 links.
 
-GIT:
+Every link follows to another html page with recipe of some dish. Every recipe page must have back link.
 
-Create new repo
-Clone it to my local storage 
-Sync local storage with my github (add, commit, push)
+For every page i used own h1 header, because its separated pages, but not a javascript changeble content in single page.
 
-
-HTML:
-
-Basic elements
+Also i used structure ul>li for similar content and add additional back link after content for better usability.
